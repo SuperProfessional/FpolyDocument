@@ -1,0 +1,11 @@
+sudo nano /usr/share/applications/STS.desktop
+
+[Desktop Entry]
+Name=SpringSource Tool Suite
+Comment=Spring Tool Suite
+Exec=/opt/sts-4.7.0.RELEASE/SpringToolSuite4
+Icon=/opt/sts-4.7.0.RELEASE/icon.xpm
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Development;IDE;Java;
